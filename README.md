@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Ngusa**, a passionate **Software Engineer** who builds full-stack web and mobile applications using modern technologies — always learning, always building.
+I'm **Ngusa**, a passionate **Software Engineer** dedicated to building full-stack web and mobile applications with modern technologies — always learning, always creating.
 
 ---
 
@@ -16,16 +16,15 @@ I'm **Ngusa**, a passionate **Software Engineer** who builds full-stack web and 
 
 ### 🧠 About Me
 
-- 💻 I specialize in building high-quality mobile and web applications  
-- 🎯 I focus on writing clean, scalable code with great user experience  
-- 🌱 I’m currently learning advanced system design and DevOps practices  
-- 🤝 I’m open to collaborating on innovative and impactful projects  
+- 💻 Specializing in crafting high-quality web and mobile apps  
+- 🎯 Focused on writing clean, scalable code with excellent user experience  
+- 🌱 Currently learning advanced system design and DevOps practices  
+- 🤝 Open to collaborating on innovative and impactful projects  
 
 ---
 
-### 📫 Contact
+### 📫 Get in Touch
 
-- 📧 ngusadeep@gmail.com  
-- 🌐 https://ngusadeep.com
-- 💼 https://www.linkedin.com/in/samwel-ngusa-aab144244
-
+- 📧 Email: [ngusadeep@gmail.com](mailto:ngusadeep@gmail.com)  
+- 🌐 Website: [ngusadeep.com](https://ngusadeep.com)  
+- 💼 LinkedIn: [samwel-ngusa](https://www.linkedin.com/in/samwel-ngusa-aab144244)  
