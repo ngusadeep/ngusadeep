@@ -25,7 +25,7 @@ I'm **Ngusa**, a passionate **Software Engineer** who builds full-stack web and 
 
 ### 📫 Contact
 
-- 📧 your.email@example.com  
-- 🌐 [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 [LinkedIn Profile](https://linkedin.com/in/your-username) *(optional)*
+- 📧 ngusadeep@gmail.com  
+- 🌐 https://ngusadeep.com
+- 💼 https://www.linkedin.com/in/samwel-ngusa-aab144244
 
