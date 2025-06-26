@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Ngusa**, a passionate **Software Engineer** dedicated to building full-stack web and mobile applications with modern technologies — always learning, always creating.
+I'm **Ngusa**, a passionate **Tech Enthusiast** dedicated to building full-stack web and mobile applications with modern technologies — always learning, always creating.
 
 ---
 
