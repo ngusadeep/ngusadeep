@@ -1,8 +1,12 @@
-## 👋 Hi there!
+## 👋 Hello world!
 
 I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack applications — now diving deep into the world of **Machine Learning**, **Neural Networks**, and **Quantum Computing**.
 
 ---
+
+<table>
+  <tr>
+    <td valign="top" width="33%" style="padding-right: 1rem;">
 
 ### 💡 About Me
 
@@ -11,7 +15,8 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 - 💬 I thrive on collaboration, feedback, and open knowledge sharing
 - 📈 Always growing — as a developer, researcher, and creative thinker
 
----
+    </td>
+    <td valign="top" width="33%" style="padding-right: 1rem;">
 
 ### 🔍 Currently Exploring
 
@@ -20,27 +25,43 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 - ⚛️ Researching the intersection of **Quantum Computing** and **AI**
 - 🧪 Building ML side-projects to learn by doing and experimenting
 
----
+    </td>
+    <td valign="top" width="33%">
 
 ### 🛠️ Tech Stack
 
 **Full-Stack Frameworks**  
+<br>
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+<br><br>
+
 **Machine Learning & AI**  
+<br>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F28500?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<br><br>
+
 **Database & DevOps**  
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
+<br><br>
+
 **Design & Prototyping**  
+<br>
 ![Figma](https://img.shields.io/badge/Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black)
+
+    </td>
+
+  </tr>
+</table>
 
 ---
 
