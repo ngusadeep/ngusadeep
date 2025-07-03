@@ -1,3 +1,8 @@
+Here's your fully polished and well-organized `README.md`, with consistent formatting, logical flow, and clean spacing — perfect for GitHub profile or personal project landing:
+
+---
+
+```md
 ## 👋 Hi there!
 
 I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack applications — now diving deep into the world of **Machine Learning**, **Neural Networks**, and **Quantum Computing**.
@@ -44,8 +49,6 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 
 ---
 
----
-
 ## 🏅 AI Agent Hackathon with IBM watsonx.ai
 
 📅 April 29 – 31, 2025
@@ -80,10 +83,7 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 
 ### 🌟 Quote That Drives Me
 
-> _"Stay curious. Keep building. Never stop learning."_
+> _"Keep building with faith. Never stop learning."_
 
 ---
-
-```
-
 ```
