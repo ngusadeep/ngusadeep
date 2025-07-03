@@ -4,6 +4,15 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 
 ---
 
+### 💡 About Me
+
+- 👨‍💻 I build scalable, user-friendly web applications using modern technologies
+- 🧠 Currently exploring the foundations of **Artificial Intelligence** and **Quantum-enhanced learning systems**
+- 💬 I thrive on collaboration, feedback, and open knowledge sharing
+- 📈 Always growing — as a developer, researcher, and creative thinker
+
+---
+
 ### 🔍 Currently Exploring
 
 - 📚 Core principles of **Machine Learning** & **Deep Learning**
@@ -13,17 +22,9 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 
 ---
 
-AI Agent Hackathon with IBM watsonx.ai ~ 29 - 31 April 2025
-
-Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries. It automatically identifies key decisions, extracts tasks with deadlines, and sends reminders via tools like Slack or email to enhance team productivity and accountability.
-
-![AI Agent Hackathon with IBM WatsonX](./assets/ai-agent-hackathon-with-ibm-watsonx-ai.png)
-
-## Repo : ![(https://github.com/meena108/minute-to-action.git)]
-
 ### 🛠️ Tech Stack
 
-**Backend & Full-Stack Frameworks**  
+**Full-Stack Frameworks**  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,12 +44,13 @@ Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.
 
 ---
 
-### 💡 About Me
+AI Agent Hackathon with IBM watsonx.ai ~ 29 - 31 April 2025
 
-- 👨‍💻 I build scalable, user-friendly web applications using modern technologies
-- 🧠 Currently exploring the foundations of **Artificial Intelligence** and **Quantum-enhanced learning systems**
-- 💬 I thrive on collaboration, feedback, and open knowledge sharing
-- 📈 Always growing — as a developer, researcher, and creative thinker
+Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries. It automatically identifies key decisions, extracts tasks with deadlines, and sends reminders via tools like Slack or email to enhance team productivity and accountability.
+
+![AI Agent Hackathon with IBM WatsonX](./assets/ai-agent-hackathon-with-ibm-watsonx-ai.png)
+
+## 🗂️ Repo: [minute-to-action](https://github.com/meena108/minute-to-action.git)
 
 ---
 
