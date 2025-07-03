@@ -47,11 +47,11 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 **Design & Prototyping**  
 <br>
 ![Figma](https://img.shields.io/badge/Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black)
-
-    </td>
+</td>
 
   </tr>
 </table>
+
 ---
 
 ### 🔍 Currently Exploring
