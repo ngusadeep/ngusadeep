@@ -2,7 +2,7 @@
 
 - I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack applications — now diving deep into the world of **Machine Learning**, **Neural Networks**, and **Quantum Computing**.
 
----
+##
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
----
+##
 
 ### 🔍 Currently Exploring
 
@@ -53,7 +53,7 @@
 - ⚛️ Researching the intersection of **Quantum Computing** and **AI**
 - 🧪 Building ML side-projects to learn by doing and experimenting
 
----
+##
 
 ## 🏅 AI Agent Hackathon with IBM watsonx.ai
 
@@ -77,7 +77,7 @@
 
 [📁 minute-to-action](https://github.com/meena108/minute-to-action.git)
 
----
+##
 
 ### 📬 Let's Connect
 
@@ -85,10 +85,10 @@
 - 🌐 Portfolio: [ngusadeep.com](https://ngusadeep.com)
 - 💼 LinkedIn: [samwel-ngusa](https://www.linkedin.com/in/samwel-ngusa-aab144244)
 
----
+##
 
 ### 🌟 Quote That Drives Me
 
 > _"Keep building with faith. Never stop learning."_
 
----
+##
