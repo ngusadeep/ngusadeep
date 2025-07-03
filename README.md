@@ -10,17 +10,20 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 - 🧠 Architectures like **Neural Networks**, **CNNs**, and **Transformers**
 - ⚛️ Researching the intersection of **Quantum Computing** and **AI**
 - 🧪 Building ML side-projects to learn by doing and experimenting
----
 
+---
 
 AI Agent Hackathon with IBM watsonx.ai ~ 29 - 31 April 2025
 
 Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries. It automatically identifies key decisions, extracts tasks with deadlines, and sends reminders via tools like Slack or email to enhance team productivity and accountability.
 
-![(https://www.credly.com/badges/1a716e48-e361-4fc6-918f-20dc60650587/public_url)]
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a716e48-e361-4fc6-918f-20dc60650587" data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
 
-Repo : ![(https://github.com/meena108/minute-to-action.git)]
----
+</script>
+
+## Repo : ![(https://github.com/meena108/minute-to-action.git)]
 
 ### 🛠️ Tech Stack
 
@@ -46,17 +49,17 @@ Repo : ![(https://github.com/meena108/minute-to-action.git)]
 
 ### 💡 About Me
 
-- 👨‍💻 I build scalable, user-friendly web applications using modern technologies  
-- 🧠 Currently exploring the foundations of **Artificial Intelligence** and **Quantum-enhanced learning systems**  
-- 💬 I thrive on collaboration, feedback, and open knowledge sharing  
+- 👨‍💻 I build scalable, user-friendly web applications using modern technologies
+- 🧠 Currently exploring the foundations of **Artificial Intelligence** and **Quantum-enhanced learning systems**
+- 💬 I thrive on collaboration, feedback, and open knowledge sharing
 - 📈 Always growing — as a developer, researcher, and creative thinker
 
 ---
 
 ### 📬 Let's Connect
 
-- 📧 Email: [ngusadeep@gmail.com](mailto:ngusadeep@gmail.com)  
-- 🌐 Portfolio: [ngusadeep.com](https://ngusadeep.com)  
+- 📧 Email: [ngusadeep@gmail.com](mailto:ngusadeep@gmail.com)
+- 🌐 Portfolio: [ngusadeep.com](https://ngusadeep.com)
 - 💼 LinkedIn: [samwel-ngusa](https://www.linkedin.com/in/samwel-ngusa-aab144244)
 
 ---
@@ -66,5 +69,7 @@ Repo : ![(https://github.com/meena108/minute-to-action.git)]
 > _"Stay curious. Keep building. Never stop learning."_
 
 ---
+
+```
 
 ```
