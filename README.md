@@ -16,16 +16,6 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 - 📈 Always growing — as a developer, researcher, and creative thinker
 
     </td>
-    <td valign="top" width="33%" style="padding-right: 1rem;">
-
-### 🔍 Currently Exploring
-
-- 📚 Core principles of **Machine Learning** & **Deep Learning**
-- 🧠 Architectures like **Neural Networks**, **CNNs**, and **Transformers**
-- ⚛️ Researching the intersection of **Quantum Computing** and **AI**
-- 🧪 Building ML side-projects to learn by doing and experimenting
-
-    </td>
     <td valign="top" width="33%">
 
 ### 🛠️ Tech Stack
@@ -62,6 +52,14 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 
   </tr>
 </table>
+---
+
+### 🔍 Currently Exploring
+
+- 📚 Core principles of **Machine Learning** & **Deep Learning**
+- 🧠 Architectures like **Neural Networks**, **CNNs**, and **Transformers**
+- ⚛️ Researching the intersection of **Quantum Computing** and **AI**
+- 🧪 Building ML side-projects to learn by doing and experimenting
 
 ---
 
