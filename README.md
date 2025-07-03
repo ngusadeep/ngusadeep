@@ -44,13 +44,29 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 
 ---
 
-AI Agent Hackathon with IBM watsonx.ai ~ 29 - 31 April 2025
+---
 
-Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries. It automatically identifies key decisions, extracts tasks with deadlines, and sends reminders via tools like Slack or email to enhance team productivity and accountability.
+## 🏅 AI Agent Hackathon with IBM watsonx.ai
 
-![AI Agent Hackathon with IBM WatsonX](./assets/ai-agent-hackathon-with-ibm-watsonx-ai.png)
+📅 April 29 – 31, 2025
 
-## 🗂️ Repo: [minute-to-action](https://github.com/meena108/minute-to-action.git)
+> **“Minutes to Action”** is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries.  
+> It identifies key decisions, extracts tasks with deadlines, and sends reminders via Slack or email to boost team productivity and accountability.
+
+<p align="center">
+  <img src="./assets/ai-agent-hackathon-with-ibm-watsonx-ai.png" alt="IBM WatsonX Hackathon Badge" width="220" />
+</p>
+
+### 🧠 Key Learnings
+
+- Developed a full AI agent pipeline using IBM watsonx.ai
+- Extracted tasks and decisions from raw meeting transcripts
+- Automated Slack/email reminders with deadlines
+- Practiced prompt engineering and API integration
+
+### 🗂️ Repo
+
+[📁 minute-to-action](https://github.com/meena108/minute-to-action.git)
 
 ---
 
