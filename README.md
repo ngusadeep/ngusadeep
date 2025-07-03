@@ -17,7 +17,7 @@ AI Agent Hackathon with IBM watsonx.ai ~ 29 - 31 April 2025
 
 Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries. It automatically identifies key decisions, extracts tasks with deadlines, and sends reminders via tools like Slack or email to enhance team productivity and accountability.
 
-[![My Credly Badge](https://images.credly.com/size/340x340/images/your-badge-id.png)](https://www.credly.com/badges/1a716e48-e361-4fc6-918f-20dc60650587/public_url)
+![AI Agent Hackathon with IBM WatsonX](./assets/ai-agent-hackathon-with-ibm-watsonx-ai.png)
 
 ## Repo : ![(https://github.com/meena108/minute-to-action.git)]
 
