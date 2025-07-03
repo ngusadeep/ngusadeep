@@ -4,20 +4,9 @@
 I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack applications — now diving deep into the world of **Machine Learning**, **Neural Networks**, and **Quantum Computing**.
 ---
 
-<table style = "
-      width: 100%;
-      border-collapse: collapse;
-      margin-bottom: 2rem;
-      border: none;
-" >
-
-  <tr 
-  style= "
-  vertical-align: top;
-  "
-   >
-    <td valign="top" width="33%
-">
+<table>
+  <tr>
+    <td valign="top" width="33%" style="padding-right: 1rem;">
 
 ### 💡 About Me
 
