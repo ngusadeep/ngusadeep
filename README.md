@@ -10,7 +10,16 @@ I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack ap
 - 🧠 Architectures like **Neural Networks**, **CNNs**, and **Transformers**
 - ⚛️ Researching the intersection of **Quantum Computing** and **AI**
 - 🧪 Building ML side-projects to learn by doing and experimenting
+---
 
+
+AI Agent Hackathon with IBM watsonx.ai ~ 29 - 31 April 2025
+
+Minutes to Action” is an AI-powered virtual assistant built using IBM watsonx.ai that transforms unstructured meeting discussions into clear, actionable summaries. It automatically identifies key decisions, extracts tasks with deadlines, and sends reminders via tools like Slack or email to enhance team productivity and accountability.
+
+![(https://www.credly.com/badges/1a716e48-e361-4fc6-918f-20dc60650587/public_url)]
+
+Repo : ![(https://github.com/meena108/minute-to-action.git)]
 ---
 
 ### 🛠️ Tech Stack
