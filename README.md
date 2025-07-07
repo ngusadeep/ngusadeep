@@ -10,8 +10,8 @@
 
 ### 💡 About Me
 
-- 👨‍💻 I build scalable, user-friendly web applications using modern technologies
-- 🧠 Currently exploring the foundations of **Artificial Intelligence** and **Quantum-enhanced learning systems**
+- 👨‍💻 I design Graphics , Ui/UX and build user-friendly web applications using modern technologies
+- 🧠 Currently exploring the foundations of **Machine learning**
 - 💬 I thrive on collaboration, feedback, and open knowledge sharing
 - 📈 Always growing — as a developer, researcher, and creative thinker
 
