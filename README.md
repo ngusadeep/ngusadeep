@@ -1,6 +1,6 @@
 ## 👋 Hello world!
 
-- I'm **Ngusa**, a passionate **Tech Enthusiast** crafting impactful full-stack applications — now diving deep into the world of **Machine Learning**, **Neural Networks**, and **Quantum Computing**.
+- I'm **Ngusa**, a passionate **Tech Enthusiast** learning to craft impactful software solutions.
 
 ##
 
@@ -26,8 +26,6 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F28500?style=for-the-badge&logo=jupyter&logoColor=white)
 <br>
 
@@ -46,9 +44,7 @@
 ### 🔍 Currently Exploring
 
 - 📚 Core principles of **Machine Learning** & **Deep Learning**
-- 🧠 Architectures like **Neural Networks**, **CNNs**, and **Transformers**
-- ⚛️ Researching the intersection of **Quantum Computing** and **AI**
-- 🧪 Building ML side-projects to learn by doing and experimenting
+- ⚛️ The intersection of **Quantum Computing** and **AI**
 
 ##
 
