@@ -21,6 +21,7 @@
 ### 🛠️ Tech Stack
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-E0234E?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <br>
