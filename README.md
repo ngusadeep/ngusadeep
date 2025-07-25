@@ -1,6 +1,6 @@
-## 👋 Hello world!
+## 👋 Hello, World!
 
-- I'm **Ngusa**, a passionate **Tech Enthusiast** learning to craft impactful software solutions.
+I'm **Ngusa** — a passionate **Tech Enthusiast** learning to craft impactful software solutions across AI, Robotics, Quantum Computing, and beyond.
 
 ##
 
@@ -10,8 +10,9 @@
 
 ### 💡 About Me
 
-- 👨‍💻 I design Graphics , Ui/UX and build user-friendly web applications using modern technologies
-- 🧠 Currently exploring the foundations of **Machine learning**
+- 👨‍💻 I design graphics, craft UI/UX, and build user-friendly web applications using modern technologies
+- 🤖 Exploring the frontiers of **Machine Learning**, **AI**, and **Robotics**
+- ⚛️ Fascinated by the future of **Quantum Computing**
 - 💬 I thrive on collaboration, feedback, and open knowledge sharing
 - 📈 Always growing — as a developer, researcher, and creative thinker
 
@@ -35,6 +36,8 @@
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 </td>
   </tr>
@@ -45,6 +48,7 @@
 ### 🔍 Currently Exploring
 
 - 📚 Core principles of **Machine Learning** & **Deep Learning**
+- 🤖 **Robotics** frameworks and intelligent agent design
 - ⚛️ The intersection of **Quantum Computing** and **AI**
 
 ##
@@ -73,7 +77,7 @@
 
 ##
 
-### 📬 Let's Connect
+## 🌐 Let's Connect
 
 - 📧 Email: [ngusadeep@gmail.com](mailto:ngusadeep@gmail.com)
 - 🌐 Portfolio: [ngusadeep.com](https://ngusadeep.com)
