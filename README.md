@@ -54,7 +54,7 @@ I'm **Ngusa** — a passionate **Tech Enthusiast** learning to craft impactful s
 ## 🌐 Let's Connect
 
 - 📧 Email: [ngusadeep@gmail.com](mailto:ngusadeep@gmail.com)
-- 🌐 Portfolio: [ngusadeep.com](https://ngusadeep.com)
+- 🌐 Portfolio: [ngusadeep.com](https://ngusadeep.vercel.app)
 - 💼 LinkedIn: [samwel-ngusa](https://www.linkedin.com/in/samwel-ngusa-aab144244)
 
 ##
