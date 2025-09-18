@@ -6,10 +6,10 @@ I'm a **Tech Enthusiast** passionate about building impactful software across **
 
 ## 💼 About Me
 
-- 👨‍💻 Full-stack developer focused on **UI/UX design** and **user-friendly web apps**
-- 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Robotics**
-- ⚛️ Interested in **Quantum Computing** applications
-- 💡 Lifelong learner, collaborator, and problem-solver
+- 👨‍💻 Full-stack developer crafting **UI/UX designs** and **user-friendly web apps**  
+- 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Robotics**  
+- ⚛️ Passionate about **Quantum Computing** and its applications  
+- 💡 Lifelong learner, collaborator, and problem-solver  
 
 ---
 
@@ -39,17 +39,24 @@ I'm a **Tech Enthusiast** passionate about building impactful software across **
 
 ## 🔍 Currently Exploring
 
-- Advanced **Deep Learning** architectures
-- Intelligent **Robotics** systems
-- **Quantum Computing** algorithms for AI
+- Advanced **Deep Learning** architectures  
+- Intelligent **Robotics** systems  
+- **Quantum Computing** algorithms for AI  
+
+---
+
+## 🌟 GitHub Stats
+
+![Ngusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamwelNgusa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamwelNgusa&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 [Email](mailto:ngusadeep@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/samwel-ngusa-aab144244)
-- 🌐 [Portfolio](https://ngusadeep.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwel-ngusa-aab144244)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ngusadeep.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngusadeep@gmail.com)
 
 ---
 
