@@ -47,8 +47,8 @@ I'm a **Tech Enthusiast** passionate about building impactful software across **
 
 ## 🌟 GitHub Stats
 
-![Ngusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamwelNgusa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamwelNgusa&layout=compact&theme=radical)
+![Ngusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngusadeep&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngusadeep&layout=compact&theme=radical)
 
 ---
 
