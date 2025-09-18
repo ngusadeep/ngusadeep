@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ngusa
 
 I'm a **Machine Learning Engineer** | **AI Enthusiast** | **Deep Learning** | **Software Developer**  | **Quantum Computing**
-- Passionate about building intelligent systems, scalable software solutions, and exploring the frontiers of technology.
+
+Passionate about building intelligent systems, scalable software solutions, and exploring the frontiers of technology.
 
 
 ## 💼 About Me
