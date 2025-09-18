@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Ngusa
 
-I'm a **Tech Enthusiast** passionate about building impactful software across **AI, Robotics, Quantum Computing**, and modern web technologies.
+I'm a **Machine Learning Engineer** | **AI Enthusiast** | **Deep Learning Practitioner** | **Software Developer**  
+Passionate about building intelligent systems, scalable software solutions, and exploring the frontiers of technology.
 
----
 
 ## 💼 About Me
 
-- 👨‍💻 Full-stack developer crafting **UI/UX designs** and **user-friendly web apps**  
-- 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Robotics**  
-- ⚛️ Passionate about **Quantum Computing** and its applications  
-- 💡 Lifelong learner, collaborator, and problem-solver  
+- 👨‍💻 Building full-stack applications with clean UI/UX and scalable backend systems  
+- 🤖 Developing AI & Deep Learning models for real-world applications  
+- ⚛️ Exploring **Quantum Computing** and its intersection with AI  
+- 💡 Lifelong learner, problem solver, and open-source contributor  
 
----
 
 ## 🛠 Tech Stack
 
@@ -25,7 +24,7 @@ I'm a **Tech Enthusiast** passionate about building impactful software across **
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black)
 
-### **Machine Learning / AI**
+### **Machine Learning & AI**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -35,30 +34,20 @@ I'm a **Tech Enthusiast** passionate about building impactful software across **
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 ## 🔍 Currently Exploring
 
-- Advanced **Deep Learning** architectures  
-- Intelligent **Robotics** systems  
-- **Quantum Computing** algorithms for AI  
+- Advanced **Deep Learning** architectures & AI models  
+- **Robotics** frameworks and intelligent agents  
+- Quantum algorithms for **AI applications**  
 
----
-
-## 🌟 GitHub Stats
-
-![Ngusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngusadeep&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngusadeep&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwel-ngusa-aab144244)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ngusadeep.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngusadeep@gmail.com)
+- 📧 [Email](mailto:ngusadeep@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/samwel-ngusa-aab144244)  
+- 🌐 [Portfolio](https://ngusadeep.vercel.app)  
 
----
 
 ## 🌟 Quote That Drives Me
 
