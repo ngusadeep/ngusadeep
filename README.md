@@ -23,7 +23,6 @@ Passionate about building intelligent systems, scalable software solutions, and 
 
 ### **Frontend**
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black)
 
@@ -40,12 +39,10 @@ Passionate about building intelligent systems, scalable software solutions, and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### **Cloud & Hosting**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-F8BC00?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### **Testing & CI/CD**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 🔍 Currently Exploring
