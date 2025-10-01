@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ngusa
 
-I'm a **Machine Learning Engineer** | **AI Enthusiast** | **Deep Learning** | **Backend Engineer**  | **Quantum Computing**
+I'm a **Machine Learning Engineer** | **AI Enthusiast** | **Deep Learning** | **Backend Engineer** 
 
 Passionate about building intelligent systems, scalable software solutions, and exploring the frontiers of technology.
 
