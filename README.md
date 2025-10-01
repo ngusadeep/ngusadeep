@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ngusa
 
-I'm a **Machine Learning Engineer** | **AI Enthusiast** | **Deep Learning** | **Software Developer**  | **Quantum Computing**
+I'm a **Machine Learning Engineer** | **AI Enthusiast** | **Deep Learning** | **Backend Engineer**  | **Quantum Computing**
 
 Passionate about building intelligent systems, scalable software solutions, and exploring the frontiers of technology.
 
 
 ## 💼 About Me
 
-- 👨‍💻 Building full-stack applications with clean UI/UX and scalable backend systems  
+- 👨‍💻 Building scalable backend systems  
 - 🤖 Developing AI & Deep Learning models for real-world applications  
 - ⚛️ Exploring **Quantum Computing** and its intersection with AI  
 - 💡 Lifelong learner, problem solver, and open-source contributor  
