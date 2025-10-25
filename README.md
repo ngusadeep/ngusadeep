@@ -2,14 +2,12 @@
 
 I love **Deep Learning** but obsessed with **Quantum Computing** 
 
-Passionate about building scalable intelligent systems and exploring the frontiers of technology.
+Lifelong learner , passionate about building scalable intelligent systems and exploring the frontiers of technology.
 
 ## 💼 About Me
 
-- 🤖 Developing AI & Deep Learning models for real-world applications  
-- ⚛️ Exploring **Quantum Computing** and its intersection with AI  
-- 💡 Lifelong learner and problem solver
-- 👨‍💻 Building scalable backend systems  
+- 🤖 AI & Deep Learning for real-world applications  
+- ⚛️ **Quantum Computing** and its intersection with AI  
 
 ## 🛠 **Tech Stack**
 
