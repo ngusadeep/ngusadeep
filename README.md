@@ -11,9 +11,8 @@ Passionate about building scalable intelligent systems and exploring the frontie
 - 💡 Lifelong learner and problem solver
 - 👨‍💻 Building scalable backend systems  
 
-## 🛠 Tech Stack
+## 🛠 **Tech Stack**
 
-### **Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
