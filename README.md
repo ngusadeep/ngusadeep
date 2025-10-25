@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Ngusa
+### 👋 Hi, I'm Ngusa
 
 I love **Deep Learning** but obsessed with **Quantum Computing** 
 
 Lifelong learner , passionate about building scalable intelligent systems and exploring the frontiers of technology.
 
-## 💼 About Me
+### 💼 About Me
 
 - 🤖 AI & Deep Learning for real-world applications  
 - ⚛️ **Quantum Computing** and its intersection with AI  
 
-## 🛠 **Tech Stack**
+### 🛠 **Tech Stack**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -29,18 +29,18 @@ Lifelong learner , passionate about building scalable intelligent systems and ex
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🔍 Currently Exploring
+### 🔍 Currently Exploring
 
 - **Deep Reinforcement Learning** & **Quantum algorithms** 
 - **Robotics** frameworks and intelligent agents  
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 - 📧 [Email](mailto:ngusadeep@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/samwel-ngusa-aab144244)  
 - 🌐 [Portfolio](https://ngusadeep.vercel.app)  
 
 
-## 🌟 Quote That Drives Me
+### 🌟 Quote That Drives Me
 
 > _"Keep building with faith. Never stop learning."_
