@@ -1,13 +1,6 @@
 ### 👋 Hi, I'm Ngusa
 
-I love **Deep Learning** but obsessed with **Quantum Computing** 
-
-Lifelong learner , passionate about building scalable intelligent systems and exploring the frontiers of technology.
-
-### 💼 About Me
-
-- 🤖 AI & Deep Learning for real-world applications  
-- ⚛️ **Quantum Computing** and its intersection with AI  
+A Lifelong learner , passionate about building scalable intelligent systems and exploring the frontiers of technology.
 
 ### 🛠 **Tech Stack**
 
@@ -29,10 +22,6 @@ Lifelong learner , passionate about building scalable intelligent systems and ex
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔍 Currently Exploring
-
-- **Deep Reinforcement Learning** & **Quantum algorithms** 
-- **Robotics** frameworks and intelligent agents  
 
 ### 🌐 Connect with Me
 
